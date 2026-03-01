@@ -4,7 +4,7 @@
 
 **Category:** Smart Contract / Blockchain  
 **Difficulty:** Hard  
-**Points:** 500  
+**Points:** 250  
 **Network:** Sepolia Testnet
 
 ---
