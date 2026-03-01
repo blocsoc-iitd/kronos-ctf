@@ -1,0 +1,13 @@
+# Foundry
+cache/
+out/
+broadcast/
+.env
+
+# Node
+node_modules/
+
+# Misc
+coverage/
+coverage.json
+*.log
