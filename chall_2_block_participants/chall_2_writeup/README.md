@@ -63,8 +63,8 @@ After 10 blocks → call `sealThrone()` through the attacker contract.
 
 Compare `fundLoan()` vs `batchFundLoans()`:
 
-| | `fundLoan()` | `batchFundLoans()` |
-|---|---|---|
+|                  | `fundLoan()`   | `batchFundLoans()`  |
+| ---------------- | -------------- | ------------------- |
 | Collateral check | **Every loan** | **First loan only** |
 
 ```solidity

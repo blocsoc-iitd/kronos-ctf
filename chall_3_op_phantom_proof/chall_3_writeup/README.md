@@ -1,6 +1,6 @@
 # Operation Phantom Proof — Writeup
 
-**Category:** Zero-Knowledge / Cryptography | **Difficulty:** Hard | **Points:** ___
+**Category:** Zero-Knowledge / Cryptography | **Difficulty:** Hard | **Points:** \_\_\_
 
 ---
 
@@ -14,18 +14,18 @@
 
 A custom STARK prover/verifier for Rescue-Prime hash preimage proofs over BabyBear (`p = 2013265921`).
 
-**Goal:** Produce a valid proof for a *false* statement — i.e., a proof that `Rescue(input) = output` where `output` is incorrect. Submit to the oracle to get the flag.
+**Goal:** Produce a valid proof for a _false_ statement — i.e., a proof that `Rescue(input) = output` where `output` is incorrect. Submit to the oracle to get the flag.
 
 ### Key Parameters
 
-| Parameter | Value |
-|---|---|
-| Field | BabyBear (p = 2³¹ − 2²⁷ + 1) |
-| Rescue rounds | 7 |
-| State width | 4 (rate=2, capacity=2) |
-| Trace rows | 8 |
-| Blowup factor | 8 |
-| FRI queries | 28 |
+| Parameter     | Value                        |
+| ------------- | ---------------------------- |
+| Field         | BabyBear (p = 2³¹ − 2²⁷ + 1) |
+| Rescue rounds | 7                            |
+| State width   | 4 (rate=2, capacity=2)       |
+| Trace rows    | 8                            |
+| Blowup factor | 8                            |
+| FRI queries   | 28                           |
 
 ---
 

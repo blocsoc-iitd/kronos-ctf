@@ -1,6 +1,6 @@
 # Fractured Lattices — Writeup
 
-**Category:** Cryptography / Forensics | **Difficulty:** Medium-Hard | **Points:** ___
+**Category:** Cryptography / Forensics | **Difficulty:** Medium-Hard | **Points:** \_\_\_
 
 ---
 
